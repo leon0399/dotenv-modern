@@ -4,7 +4,7 @@
   "description": "Modern loader for multiple .env files",
   "main": "lib/main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "keywords": [
     "dotenv"
@@ -14,5 +14,8 @@
   "dependencies": {
     "dotenv": "^16.0.2",
     "dotenv-expand": "^9.0.0"
+  },
+  "devDependencies": {
+    "jest": "^29.0.3"
   }
 }
