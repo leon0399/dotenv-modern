@@ -1,0 +1,18 @@
+{
+  "name": "dotenv-modern",
+  "version": "1.0.0",
+  "description": "Modern loader for multiple .env files",
+  "main": "lib/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dotenv"
+  ],
+  "author": "Leonid Meleshin <hello@leon0399.ru> (https://leon0399.ru)",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.2",
+    "dotenv-expand": "^9.0.0"
+  }
+}
