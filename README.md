@@ -1,3 +1,6 @@
+> **Deprecated**
+> Use [`dotenvx`](https://github.com/dotenvx/dotenvx) or Node 20+ native [`--env-file`](https://nodejs.org/en/learn/command-line/how-to-read-environment-variables-from-nodejs#loading-env-files-programmatically-with-processloadenvfilepath) param
+
 # dotenv-modern
 
 `dotenv-modern` is more agile loader for multiple .env file for your projects, build on top of [dotenv](https://github.com/motdotla/dotenv) and [dotenv-expand](https://github.com/motdotla/dotenv-expand)
